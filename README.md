@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [BisUtils](https://github.com/FlipperPlz/BisUtils)
 
-- 🌱 I’m currently learning **Zig**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on [BisUtils](https://github.com/FlipperPlz/BisUtils)
 
