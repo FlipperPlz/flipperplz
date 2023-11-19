@@ -9,19 +9,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flipperplz&" alt="flipperplz" /></p>
 
-- 🔭 I’m currently working on [BisUtils](https://github.com/FlipperPlz/BisUtils)
+- 🔭 I’m currently working on [BiSharper](https://github.com/BiSharper)
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [BisUtils](https://github.com/FlipperPlz/BisUtils)
+- 👯 I’m looking to collaborate on [BiSharper](https://github.com/BiSharper)
 
 - 🤝 I’m looking for help with [Unofficial Enfusion Workbench](https://github.com/FlipperPlz/Enfusion-Workbench)
 
-- 👨‍💻 All of my projects are available at [https://github.com/FlipperPlz](https://github.com/FlipperPlz)
+- 👨‍💻 All of my projects are available at [https://github.com/FlipperPlz](https://github.com/FlipperPlz) and [https://github.com/BiSharper](https://github.com/BiSharper)
 
 - 📝 Im regularly active on the Enfusion Modders Discord [https://discord.gg/enfusionmodders](https://discord.gg/enfusionmodders)
 
-- 💬 Ask me about **Kotlin, BisUtils, Language Parsing, Binary Formats**
+- 💬 Ask me about **Kotlin, BiSharper, Language Parsing, Binary Formats**
 
 - 📫 How to reach me **flipperplz@protonmail.com**
 
