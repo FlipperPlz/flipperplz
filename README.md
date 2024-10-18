@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ellie</h1>
-<h3 align="center">A passionate selftought 19 year old developer from the small state of Connecticut with a focus on all things Bohemia.</h3>
+<h3 align="center">A passionate selftought 20 year old developer from the small state of Connecticut with a focus on all things Bohemia.</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=flipperplz&count_private=true&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flipperplz&layout=compact&theme=transparent)
